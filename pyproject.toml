@@ -1,0 +1,10 @@
+[project]
+name = "yt-to-wav"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ffmpeg>=1.4",
+    "yt-dlp[postprocessor]>=2026.7.4",
+]
