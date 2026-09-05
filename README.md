@@ -24,3 +24,6 @@ A minimal CLI tool to search YouTube tracks by title and download local audio fi
    ```bash
    python main.py
    ```
+   
+# Note
+This project was made after i learn basic python from [Dicoding](dicoding.com) with less AI help, nothing special about it.
